@@ -5,7 +5,7 @@ function Home() {
     <div className="container mt-4">
 
       <h1 className="text-center mb-4">
-        Welcome to Spicer Adventist University
+        Welcome to Spicer Adventist University (He shall teach you all things)
       </h1>
 
       <p>
